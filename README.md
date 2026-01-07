@@ -27,7 +27,7 @@ A custom Date table is used instead of Power BI auto date/time.
 - Dimensional modeling (Kimball)
 
 ## Screenshot
-![Executive Overview](screenshots/executive_overview.jpg)
+![Executive Overview](screenshots/executive_overview.png)
 
 ## Notes
 This project is designed as a portfolio example for Power BI Analyst / BI Developer roles, focusing on business storytelling, model clarity, and executive usability.
